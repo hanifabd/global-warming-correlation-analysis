@@ -39,4 +39,7 @@ respectively:
 <br>
 
 ## **Conclusion**
+
+<img src="assets/co2conc.png"><img src="assets/temperature.png">
+
 From the simulation above, it can be concluded that there is a correlation between the rise of carbon dioxide's concentration in the atmosphere and the average temperature on earth. The more the amount of carbon dioxide on earth, it will cause the greenhouse effect. Although carbon dioxide is only one of several causes of the greenhouse effect, it is the main contributor to the greenhouse effect because the light emitted by sunlight is reflected back to the earth and is not absorbed in the atmosphere.
